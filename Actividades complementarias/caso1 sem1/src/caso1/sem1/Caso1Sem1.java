@@ -81,6 +81,7 @@ public class Caso1Sem1 {
        
        sc.close();
        System.out.println("Cambiasoooo");
+       System.out.println("Viva la grasas:v")
     }
     
 }
