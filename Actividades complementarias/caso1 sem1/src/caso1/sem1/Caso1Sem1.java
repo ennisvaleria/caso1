@@ -80,6 +80,7 @@ public class Caso1Sem1 {
        System.out.println("El producto con mayor precio es: " + mayor_Precio);
        
        sc.close();
+       System.out.println("Cambiasoooo");
     }
     
 }
